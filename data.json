@@ -1,0 +1,2218 @@
+[
+  {
+    "id": "221",
+    "code": "ANH",
+    "name": "Học Viện An Ninh Nhân Dân",
+    "alias": "hoc-vien-an-ninh-nhan-dan",
+    "url": "/diem-chuan/hoc-vien-an-ninh-nhan-dan-ANH.html",
+    "name_kd": "Hoc Vien An Ninh Nhan Dan"
+  },
+  {
+    "id": "298",
+    "code": "ANS",
+    "name": "Đại Học An Ninh Nhân Dân",
+    "alias": "dai-hoc-an-ninh-nhan-dan",
+    "url": "/diem-chuan/dai-hoc-an-ninh-nhan-dan-ANS.html",
+    "name_kd": "Dai Hoc An Ninh Nhan Dan"
+  },
+  {
+    "id": "302",
+    "code": "BKA",
+    "name": "Đại Học Bách Khoa Hà Nội",
+    "alias": "dai-hoc-bach-khoa-ha-noi",
+    "url": "/diem-chuan/dai-hoc-bach-khoa-ha-noi-BKA.html",
+    "name_kd": "Dai Hoc Bach Khoa Ha Noi"
+  },
+  {
+    "id": "585",
+    "code": "BMU",
+    "name": "Đại học Buôn Ma Thuột",
+    "alias": "dai-hoc-buon-ma-thuot",
+    "url": "/diem-chuan/dai-hoc-buon-ma-thuot-BMU.html",
+    "name_kd": "Dai hoc Buon Ma Thuot"
+  },
+  {
+    "id": "223",
+    "code": "BPH",
+    "name": "Học Viện Biên Phòng",
+    "alias": "hoc-vien-bien-phong",
+    "url": "/diem-chuan/hoc-vien-bien-phong-BPH.html",
+    "name_kd": "Hoc Vien Bien Phong"
+  },
+  {
+    "id": "227",
+    "code": "BVH",
+    "name": "Học Viện Công Nghệ Bưu Chính Viễn Thông ( Phía Bắc )",
+    "alias": "hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac",
+    "url": "/diem-chuan/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac-BVH.html",
+    "name_kd": "Hoc Vien Cong Nghe Buu Chinh Vien Thong ( Phia Bac )"
+  },
+  {
+    "id": "228",
+    "code": "BVS",
+    "name": "Học Viện Công Nghệ Bưu Chính Viễn Thông (phía Nam)",
+    "alias": "hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam",
+    "url": "/diem-chuan/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam-BVS.html",
+    "name_kd": "Hoc Vien Cong Nghe Buu Chinh Vien Thong (phia Nam)"
+  },
+  {
+    "id": "25",
+    "code": "CCM",
+    "name": "Đại Học Công Nghiệp Dệt May Hà Nội",
+    "alias": "dai-hoc-cong-nghiep-det-may-ha-noi",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-det-may-ha-noi-CCM.html",
+    "name_kd": "Dai Hoc Cong Nghiep Det May Ha Noi"
+  },
+  {
+    "id": "78",
+    "code": "CEA",
+    "name": "Đại học Kinh Tế Nghệ An",
+    "alias": "dai-hoc-kinh-te-nghe-an",
+    "url": "/diem-chuan/dai-hoc-kinh-te-nghe-an-CEA.html",
+    "name_kd": "Dai hoc Kinh Te Nghe An"
+  },
+  {
+    "id": "229",
+    "code": "CSH",
+    "name": "Học Viện Cảnh Sát Nhân Dân",
+    "alias": "hoc-vien-canh-sat-nhan-dan",
+    "url": "/diem-chuan/hoc-vien-canh-sat-nhan-dan-CSH.html",
+    "name_kd": "Hoc Vien Canh Sat Nhan Dan"
+  },
+  {
+    "id": "317",
+    "code": "CSS",
+    "name": "Đại Học Cảnh Sát Nhân Dân",
+    "alias": "dai-hoc-canh-sat-nhan-dan",
+    "url": "/diem-chuan/dai-hoc-canh-sat-nhan-dan-CSS.html",
+    "name_kd": "Dai Hoc Canh Sat Nhan Dan"
+  },
+  {
+    "id": "305",
+    "code": "DBD",
+    "name": "Đại Học Bình Dương",
+    "alias": "dai-hoc-binh-duong",
+    "url": "/diem-chuan/dai-hoc-binh-duong-DBD.html",
+    "name_kd": "Dai Hoc Binh Duong"
+  },
+  {
+    "id": "104",
+    "code": "DBG",
+    "name": "Đại học Nông Lâm Bắc Giang",
+    "alias": "dai-hoc-nong-lam-bac-giang",
+    "url": "/diem-chuan/dai-hoc-nong-lam-bac-giang-DBG.html",
+    "name_kd": "Dai hoc Nong Lam Bac Giang"
+  },
+  {
+    "id": "306",
+    "code": "DBL",
+    "name": "Đại Học Bạc Liêu",
+    "alias": "dai-hoc-bac-lieu",
+    "url": "/diem-chuan/dai-hoc-bac-lieu-DBL.html",
+    "name_kd": "Dai Hoc Bac Lieu"
+  },
+  {
+    "id": "485",
+    "code": "DCD",
+    "name": "Đại Học Công Nghệ Đồng Nai",
+    "alias": "dai-hoc-cong-nghe-dong-nai",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-dong-nai-DCD.html",
+    "name_kd": "Dai Hoc Cong Nghe Dong Nai"
+  },
+  {
+    "id": "314",
+    "code": "DCG",
+    "name": "Đại Học Gia Định",
+    "alias": "dai-hoc-gia-dinh",
+    "url": "/diem-chuan/dai-hoc-gia-dinh-DCG.html",
+    "name_kd": "Dai Hoc Gia Dinh"
+  },
+  {
+    "id": "292",
+    "code": "DCH",
+    "name": "Trường Sĩ Quan Đặc Công",
+    "alias": "truong-si-quan-dac-cong",
+    "url": "/diem-chuan/truong-si-quan-dac-cong-DCH.html",
+    "name_kd": "Truong Si Quan Dac Cong"
+  },
+  {
+    "id": "319",
+    "code": "DCL",
+    "name": "Đại Học Cửu Long",
+    "alias": "dai-hoc-cuu-long",
+    "url": "/diem-chuan/dai-hoc-cuu-long-DCL.html",
+    "name_kd": "Dai Hoc Cuu Long"
+  },
+  {
+    "id": "308",
+    "code": "DCN",
+    "name": "Đại Học Công Nghiệp Hà Nội",
+    "alias": "dai-hoc-cong-nghiep-ha-noi",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-ha-noi-DCN.html",
+    "name_kd": "Dai Hoc Cong Nghiep Ha Noi"
+  },
+  {
+    "id": "434",
+    "code": "DCQ",
+    "name": "Đại Học Công Nghệ và Quản Lý Hữu Nghị",
+    "alias": "dai-hoc-cong-nghe-va-quan-ly-huu-nghi",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-va-quan-ly-huu-nghi-DCQ.html",
+    "name_kd": "Dai Hoc Cong Nghe va Quan Ly Huu Nghi"
+  },
+  {
+    "id": "475",
+    "code": "DCT",
+    "name": "Đại Học Công Nghiệp Thực Phẩm TP HCM",
+    "alias": "dai-hoc-cong-nghiep-thuc-pham-tp-hcm",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-thuc-pham-tp-hcm-DCT.html",
+    "name_kd": "Dai Hoc Cong Nghiep Thuc Pham TP HCM"
+  },
+  {
+    "id": "550",
+    "code": "DCV",
+    "name": "Đại học Công nghiệp Vinh",
+    "alias": "dai-hoc-cong-nghiep-vinh",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-vinh-DCV.html",
+    "name_kd": "Dai hoc Cong nghiep Vinh"
+  },
+  {
+    "id": "521",
+    "code": "DDA",
+    "name": "Đại Học Công Nghệ Đông Á",
+    "alias": "dai-hoc-cong-nghe-dong-a",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-dong-a-DDA.html",
+    "name_kd": "Dai Hoc Cong Nghe Dong A"
+  },
+  {
+    "id": "381",
+    "code": "DDF",
+    "name": "Đại Học Ngoại Ngữ – Đại Học Đà Nẵng",
+    "alias": "dai-hoc-ngoai-ngu-dai-hoc-da-nang",
+    "url": "/diem-chuan/dai-hoc-ngoai-ngu-dai-hoc-da-nang-DDF.html",
+    "name_kd": "Dai Hoc Ngoai Ngu – Dai Hoc Da Nang"
+  },
+  {
+    "id": "1311",
+    "code": "DDG",
+    "name": "Khoa Giáo dục thể chất - Đại học Đà Nẵng",
+    "alias": "khoa-giao-duc-the-chat-dai-hoc-da-nang",
+    "url": "/diem-chuan/khoa-giao-duc-the-chat-dai-hoc-da-nang-DDG.html",
+    "name_kd": "Khoa Giao duc the chat - Dai hoc Da Nang"
+  },
+  {
+    "id": "301",
+    "code": "DDK",
+    "name": "Đại Học Bách Khoa – Đại Học Đà Nẵng",
+    "alias": "dai-hoc-bach-khoa-dai-hoc-da-nang",
+    "url": "/diem-chuan/dai-hoc-bach-khoa-dai-hoc-da-nang-DDK.html",
+    "name_kd": "Dai Hoc Bach Khoa – Dai Hoc Da Nang"
+  },
+  {
+    "id": "455",
+    "code": "DDL",
+    "name": "Đại Học Điện Lực",
+    "alias": "dai-hoc-dien-luc",
+    "url": "/diem-chuan/dai-hoc-dien-luc-DDL.html",
+    "name_kd": "Dai Hoc Dien Luc"
+  },
+  {
+    "id": "309",
+    "code": "DDM",
+    "name": "Đại Học Công Nghiệp Quảng Ninh",
+    "alias": "dai-hoc-cong-nghiep-quang-ninh",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-quang-ninh-DDM.html",
+    "name_kd": "Dai Hoc Cong Nghiep Quang Ninh"
+  },
+  {
+    "id": "458",
+    "code": "DDN",
+    "name": "Đại Học Đại Nam",
+    "alias": "dai-hoc-dai-nam",
+    "url": "/diem-chuan/dai-hoc-dai-nam-DDN.html",
+    "name_kd": "Dai Hoc Dai Nam"
+  },
+  {
+    "id": "273",
+    "code": "DDP",
+    "name": "Phân Hiệu Đại Học Đà Nẵng tại Kon Tum",
+    "alias": "phan-hieu-dai-hoc-da-nang-tai-kon-tum",
+    "url": "/diem-chuan/phan-hieu-dai-hoc-da-nang-tai-kon-tum-DDP.html",
+    "name_kd": "Phan Hieu Dai Hoc Da Nang tai Kon Tum"
+  },
+  {
+    "id": "353",
+    "code": "DDQ",
+    "name": "Đại Học Kinh Tế – Đại Học Đà Nẵng",
+    "alias": "dai-hoc-kinh-te-dai-hoc-da-nang",
+    "url": "/diem-chuan/dai-hoc-kinh-te-dai-hoc-da-nang-DDQ.html",
+    "name_kd": "Dai Hoc Kinh Te – Dai Hoc Da Nang"
+  },
+  {
+    "id": "410",
+    "code": "DDS",
+    "name": "Đại Học Sư Phạm – Đại Học Đà Nẵng",
+    "alias": "dai-hoc-su-pham-dai-hoc-da-nang",
+    "url": "/diem-chuan/dai-hoc-su-pham-dai-hoc-da-nang-DDS.html",
+    "name_kd": "Dai Hoc Su Pham – Dai Hoc Da Nang"
+  },
+  {
+    "id": "320",
+    "code": "DDT",
+    "name": "Đại Học Dân Lập Duy Tân",
+    "alias": "dai-hoc-dan-lap-duy-tan",
+    "url": "/diem-chuan/dai-hoc-dan-lap-duy-tan-DDT.html",
+    "name_kd": "Dai Hoc Dan Lap Duy Tan"
+  },
+  {
+    "id": "1312",
+    "code": "DDV",
+    "name": "Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng",
+    "alias": "vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang",
+    "url": "/diem-chuan/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang-DDV.html",
+    "name_kd": "Vien nghien cuu va dao tao Viet Anh - Dai hoc Da Nang"
+  },
+  {
+    "id": "270",
+    "code": "DDY",
+    "name": "Khoa Y Dược – Đại Học Đà Nẵng",
+    "alias": "khoa-y-duoc-dai-hoc-da-nang",
+    "url": "/diem-chuan/khoa-y-duoc-dai-hoc-da-nang-DDY.html",
+    "name_kd": "Khoa Y Duoc – Dai Hoc Da Nang"
+  },
+  {
+    "id": "168",
+    "code": "DFA",
+    "name": "Đại học Tài Chính – Quản Trị Kinh Doanh",
+    "alias": "dai-hoc-tai-chinh-quan-tri-kinh-doanh",
+    "url": "/diem-chuan/dai-hoc-tai-chinh-quan-tri-kinh-doanh-DFA.html",
+    "name_kd": "Dai hoc Tai Chinh – Quan Tri Kinh Doanh"
+  },
+  {
+    "id": "465",
+    "code": "DHA",
+    "name": "Đại học Luật - Đại Học Huế",
+    "alias": "dai-hoc-luat-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-luat-dai-hoc-hue-DHA.html",
+    "name_kd": "Dai hoc Luat - Dai Hoc Hue"
+  },
+  {
+    "id": "264",
+    "code": "DHC",
+    "name": "Khoa Giáo Dục Thể Chất – Đại Học Huế",
+    "alias": "khoa-giao-duc-the-chat-dai-hoc-hue",
+    "url": "/diem-chuan/khoa-giao-duc-the-chat-dai-hoc-hue-DHC.html",
+    "name_kd": "Khoa Giao Duc The Chat – Dai Hoc Hue"
+  },
+  {
+    "id": "263",
+    "code": "DHD",
+    "name": "Khoa Du Lịch – Đại Học Huế",
+    "alias": "khoa-du-lich-dai-hoc-hue",
+    "url": "/diem-chuan/khoa-du-lich-dai-hoc-hue-DHD.html",
+    "name_kd": "Khoa Du Lich – Dai Hoc Hue"
+  },
+  {
+    "id": "379",
+    "code": "DHF",
+    "name": "Đại Học Ngoại Ngữ – Đại Học Huế",
+    "alias": "dai-hoc-ngoai-ngu-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-ngoai-ngu-dai-hoc-hue-DHF.html",
+    "name_kd": "Dai Hoc Ngoai Ngu – Dai Hoc Hue"
+  },
+  {
+    "id": "351",
+    "code": "DHK",
+    "name": "Đại Học Kinh Tế – Đại Học Huế",
+    "alias": "dai-hoc-kinh-te-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-kinh-te-dai-hoc-hue-DHK.html",
+    "name_kd": "Dai Hoc Kinh Te – Dai Hoc Hue"
+  },
+  {
+    "id": "389",
+    "code": "DHL",
+    "name": "Đại Học Nông Lâm – Đại Học Huế",
+    "alias": "dai-hoc-nong-lam-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-nong-lam-dai-hoc-hue-DHL.html",
+    "name_kd": "Dai Hoc Nong Lam – Dai Hoc Hue"
+  },
+  {
+    "id": "377",
+    "code": "DHN",
+    "name": "Đại Học Nghệ Thuật – Đại Học Huế",
+    "alias": "dai-hoc-nghe-thuat-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-nghe-thuat-dai-hoc-hue-DHN.html",
+    "name_kd": "Dai Hoc Nghe Thuat – Dai Hoc Hue"
+  },
+  {
+    "id": "321",
+    "code": "DHP",
+    "name": "Đại Học Dân Lập Hải Phòng",
+    "alias": "dai-hoc-dan-lap-hai-phong",
+    "url": "/diem-chuan/dai-hoc-dan-lap-hai-phong-DHP.html",
+    "name_kd": "Dai Hoc Dan Lap Hai Phong"
+  },
+  {
+    "id": "272",
+    "code": "DHQ",
+    "name": "Phân Hiệu Đại Học Huế tại Quảng Trị",
+    "alias": "phan-hieu-dai-hoc-hue-tai-quang-tri",
+    "url": "/diem-chuan/phan-hieu-dai-hoc-hue-tai-quang-tri-DHQ.html",
+    "name_kd": "Phan Hieu Dai Hoc Hue tai Quang Tri"
+  },
+  {
+    "id": "409",
+    "code": "DHS",
+    "name": "Đại Học Sư Phạm – Đại Học Huế",
+    "alias": "dai-hoc-su-pham-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-su-pham-dai-hoc-hue-DHS.html",
+    "name_kd": "Dai Hoc Su Pham – Dai Hoc Hue"
+  },
+  {
+    "id": "344",
+    "code": "DHT",
+    "name": "Đại Học Khoa Học – Đại Học Huế",
+    "alias": "dai-hoc-khoa-hoc-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-khoa-hoc-dai-hoc-hue-DHT.html",
+    "name_kd": "Dai Hoc Khoa Hoc – Dai Hoc Hue"
+  },
+  {
+    "id": "578",
+    "code": "DHV",
+    "name": "Đại học Hùng Vương - TPHCM",
+    "alias": "dai-hoc-hung-vuong-tphcm",
+    "url": "/diem-chuan/dai-hoc-hung-vuong-tphcm-DHV.html",
+    "name_kd": "Dai hoc Hung Vuong - TPHCM"
+  },
+  {
+    "id": "444",
+    "code": "DHY",
+    "name": "Đại Học Y Dược – Đại Học Huế",
+    "alias": "dai-hoc-y-duoc-dai-hoc-hue",
+    "url": "/diem-chuan/dai-hoc-y-duoc-dai-hoc-hue-DHY.html",
+    "name_kd": "Dai Hoc Y Duoc – Dai Hoc Hue"
+  },
+  {
+    "id": "468",
+    "code": "DKB",
+    "name": "Đại Học Kinh Tế Kỹ Thuật Bình Dương",
+    "alias": "dai-hoc-kinh-te-ky-thuat-binh-duong",
+    "url": "/diem-chuan/dai-hoc-kinh-te-ky-thuat-binh-duong-DKB.html",
+    "name_kd": "Dai Hoc Kinh Te Ky Thuat Binh Duong"
+  },
+  {
+    "id": "363",
+    "code": "DKC",
+    "name": "Đại học Công Nghệ TPHCM",
+    "alias": "dai-hoc-cong-nghe-tphcm",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-tphcm-DKC.html",
+    "name_kd": "Dai hoc Cong Nghe TPHCM"
+  },
+  {
+    "id": "328",
+    "code": "DKH",
+    "name": "Đại Học Dược Hà Nội",
+    "alias": "dai-hoc-duoc-ha-noi",
+    "url": "/diem-chuan/dai-hoc-duoc-ha-noi-DKH.html",
+    "name_kd": "Dai Hoc Duoc Ha Noi"
+  },
+  {
+    "id": "356",
+    "code": "DKK",
+    "name": "Đại Học Kinh Tế Kỹ Thuật Công Nghiệp",
+    "alias": "dai-hoc-kinh-te-ky-thuat-cong-nghiep",
+    "url": "/diem-chuan/dai-hoc-kinh-te-ky-thuat-cong-nghiep-DKK.html",
+    "name_kd": "Dai Hoc Kinh Te Ky Thuat Cong Nghiep"
+  },
+  {
+    "id": "170",
+    "code": "DKQ",
+    "name": "Đại học Tài Chính Kế Toán",
+    "alias": "dai-hoc-tai-chinh-ke-toan",
+    "url": "/diem-chuan/dai-hoc-tai-chinh-ke-toan-DKQ.html",
+    "name_kd": "Dai hoc Tai Chinh Ke Toan"
+  },
+  {
+    "id": "548",
+    "code": "DKS",
+    "name": "Đại học Kiếm Sát Hà Nội",
+    "alias": "dai-hoc-kiem-sat-ha-noi",
+    "url": "/diem-chuan/dai-hoc-kiem-sat-ha-noi-DKS.html",
+    "name_kd": "Dai hoc Kiem Sat Ha Noi"
+  },
+  {
+    "id": "480",
+    "code": "DKT",
+    "name": "Đại Học Hải Dương",
+    "alias": "dai-hoc-hai-duong",
+    "url": "/diem-chuan/dai-hoc-hai-duong-DKT.html",
+    "name_kd": "Dai Hoc Hai Duong"
+  },
+  {
+    "id": "365",
+    "code": "DKY",
+    "name": "Đại Học Kỹ Thuật Y Tế Hải Dương",
+    "alias": "dai-hoc-ky-thuat-y-te-hai-duong",
+    "url": "/diem-chuan/dai-hoc-ky-thuat-y-te-hai-duong-DKY.html",
+    "name_kd": "Dai Hoc Ky Thuat Y Te Hai Duong"
+  },
+  {
+    "id": "355",
+    "code": "DLA",
+    "name": "Đại Học Kinh Tế Công Nghiệp Long An",
+    "alias": "dai-hoc-kinh-te-cong-nghiep-long-an",
+    "url": "/diem-chuan/dai-hoc-kinh-te-cong-nghiep-long-an-DLA.html",
+    "name_kd": "Dai Hoc Kinh Te Cong Nghiep Long An"
+  },
+  {
+    "id": "371",
+    "code": "DLH",
+    "name": "Đại Học Lạc Hồng",
+    "alias": "dai-hoc-lac-hong",
+    "url": "/diem-chuan/dai-hoc-lac-hong-DLH.html",
+    "name_kd": "Dai Hoc Lac Hong"
+  },
+  {
+    "id": "367",
+    "code": "DLS",
+    "name": "Đại Học Lao Động – Xã Hội ( Cơ sở phía Nam)",
+    "alias": "dai-hoc-lao-dong-xa-hoi-co-so-phia-nam",
+    "url": "/diem-chuan/dai-hoc-lao-dong-xa-hoi-co-so-phia-nam-DLS.html",
+    "name_kd": "Dai Hoc Lao Dong – Xa Hoi ( Co so phia Nam)"
+  },
+  {
+    "id": "529",
+    "code": "DLT",
+    "name": "Đại Học Lao Động – Xã Hội ( Cơ sở Sơn Tây )",
+    "alias": "dai-hoc-lao-dong-xa-hoi-co-so-son-tay",
+    "url": "/diem-chuan/dai-hoc-lao-dong-xa-hoi-co-so-son-tay-DLT.html",
+    "name_kd": "Dai Hoc Lao Dong – Xa Hoi ( Co so Son Tay )"
+  },
+  {
+    "id": "366",
+    "code": "DLX",
+    "name": "Đại Học Lao Động – Xã Hội ( Cơ sở Hà Nội )",
+    "alias": "dai-hoc-lao-dong-xa-hoi-co-so-ha-noi",
+    "url": "/diem-chuan/dai-hoc-lao-dong-xa-hoi-co-so-ha-noi-DLX.html",
+    "name_kd": "Dai Hoc Lao Dong – Xa Hoi ( Co so Ha Noi )"
+  },
+  {
+    "id": "553",
+    "code": "DMD",
+    "name": "Đại học Công nghệ Miền Đông",
+    "alias": "dai-hoc-cong-nghe-mien-dong",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-mien-dong-DMD.html",
+    "name_kd": "Dai hoc Cong nghe Mien Dong"
+  },
+  {
+    "id": "303",
+    "code": "DMS",
+    "name": "Đại Học Tài Chính Marketing",
+    "alias": "dai-hoc-tai-chinh-marketing",
+    "url": "/diem-chuan/dai-hoc-tai-chinh-marketing-DMS.html",
+    "name_kd": "Dai Hoc Tai Chinh Marketing"
+  },
+  {
+    "id": "171",
+    "code": "DMT",
+    "name": "Đại học Tài Nguyên và Môi Trường Hà Nội",
+    "alias": "dai-hoc-tai-nguyen-va-moi-truong-ha-noi",
+    "url": "/diem-chuan/dai-hoc-tai-nguyen-va-moi-truong-ha-noi-DMT.html",
+    "name_kd": "Dai hoc Tai Nguyen va Moi Truong Ha Noi"
+  },
+  {
+    "id": "333",
+    "code": "DNB",
+    "name": "Đại Học Hoa Lư",
+    "alias": "dai-hoc-hoa-lu",
+    "url": "/diem-chuan/dai-hoc-hoa-lu-DNB.html",
+    "name_kd": "Dai Hoc Hoa Lu"
+  },
+  {
+    "id": "378",
+    "code": "DNT",
+    "name": "Đại Học Ngoại Ngữ – Tin Học TPHCM",
+    "alias": "dai-hoc-ngoai-ngu-tin-hoc-tphcm",
+    "url": "/diem-chuan/dai-hoc-ngoai-ngu-tin-hoc-tphcm-DNT.html",
+    "name_kd": "Dai Hoc Ngoai Ngu – Tin Hoc TPHCM"
+  },
+  {
+    "id": "469",
+    "code": "DNU",
+    "name": "Đại Học Đồng Nai",
+    "alias": "dai-hoc-dong-nai",
+    "url": "/diem-chuan/dai-hoc-dong-nai-DNU.html",
+    "name_kd": "Dai Hoc Dong Nai"
+  },
+  {
+    "id": "478",
+    "code": "DNV",
+    "name": "Đại Học Nội Vụ",
+    "alias": "dai-hoc-noi-vu",
+    "url": "/diem-chuan/dai-hoc-noi-vu-DNV.html",
+    "name_kd": "Dai Hoc Noi Vu"
+  },
+  {
+    "id": "393",
+    "code": "DPC",
+    "name": "Đại Học Phan Châu Trinh",
+    "alias": "dai-hoc-phan-chau-trinh",
+    "url": "/diem-chuan/dai-hoc-phan-chau-trinh-DPC.html",
+    "name_kd": "Dai Hoc Phan Chau Trinh"
+  },
+  {
+    "id": "325",
+    "code": "DPD",
+    "name": "Đại Học Dân Lập Phương Đông",
+    "alias": "dai-hoc-dan-lap-phuong-dong",
+    "url": "/diem-chuan/dai-hoc-dan-lap-phuong-dong-DPD.html",
+    "name_kd": "Dai Hoc Dan Lap Phuong Dong"
+  },
+  {
+    "id": "397",
+    "code": "DPQ",
+    "name": "Đại Học Phạm Văn Đồng",
+    "alias": "dai-hoc-pham-van-dong",
+    "url": "/diem-chuan/dai-hoc-pham-van-dong-DPQ.html",
+    "name_kd": "Dai Hoc Pham Van Dong"
+  },
+  {
+    "id": "510",
+    "code": "DPT",
+    "name": "Đại Học Phan Thiết",
+    "alias": "dai-hoc-phan-thiet",
+    "url": "/diem-chuan/dai-hoc-phan-thiet-DPT.html",
+    "name_kd": "Dai Hoc Phan Thiet"
+  },
+  {
+    "id": "396",
+    "code": "DPY",
+    "name": "Đại Học Phú Yên",
+    "alias": "dai-hoc-phu-yen",
+    "url": "/diem-chuan/dai-hoc-phu-yen-DPY.html",
+    "name_kd": "Dai Hoc Phu Yen"
+  },
+  {
+    "id": "400",
+    "code": "DQB",
+    "name": "Đại Học Quảng Bình",
+    "alias": "dai-hoc-quang-binh",
+    "url": "/diem-chuan/dai-hoc-quang-binh-DQB.html",
+    "name_kd": "Dai Hoc Quang Binh"
+  },
+  {
+    "id": "244",
+    "code": "DQH",
+    "name": "Học Viện Kĩ Thuật Quân Sự - Hệ Dân sự",
+    "alias": "hoc-vien-ki-thuat-quan-su-he-dan-su",
+    "url": "/diem-chuan/hoc-vien-ki-thuat-quan-su-he-dan-su-DQH.html",
+    "name_kd": "Hoc Vien Ki Thuat Quan Su - He Dan su"
+  },
+  {
+    "id": "350",
+    "code": "DQK",
+    "name": "Đại Học Kinh Doanh và Công Nghệ Hà Nội",
+    "alias": "dai-hoc-kinh-doanh-va-cong-nghe-ha-noi",
+    "url": "/diem-chuan/dai-hoc-kinh-doanh-va-cong-nghe-ha-noi-DQK.html",
+    "name_kd": "Dai Hoc Kinh Doanh va Cong Nghe Ha Noi"
+  },
+  {
+    "id": "399",
+    "code": "DQN",
+    "name": "Đại Học Quy Nhơn",
+    "alias": "dai-hoc-quy-nhon",
+    "url": "/diem-chuan/dai-hoc-quy-nhon-DQN.html",
+    "name_kd": "Dai Hoc Quy Nhon"
+  },
+  {
+    "id": "398",
+    "code": "DQT",
+    "name": "Đại Học Quang Trung",
+    "alias": "dai-hoc-quang-trung",
+    "url": "/diem-chuan/dai-hoc-quang-trung-DQT.html",
+    "name_kd": "Dai Hoc Quang Trung"
+  },
+  {
+    "id": "401",
+    "code": "DQU",
+    "name": "Đại Học Quảng Nam",
+    "alias": "dai-hoc-quang-nam",
+    "url": "/diem-chuan/dai-hoc-quang-nam-DQU.html",
+    "name_kd": "Dai Hoc Quang Nam"
+  },
+  {
+    "id": "312",
+    "code": "DSG",
+    "name": "Đại Học Công Nghệ Sài Gòn",
+    "alias": "dai-hoc-cong-nghe-sai-gon",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-sai-gon-DSG.html",
+    "name_kd": "Dai Hoc Cong Nghe Sai Gon"
+  },
+  {
+    "id": "1310",
+    "code": "DSK",
+    "name": "Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng",
+    "alias": "dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang",
+    "url": "/diem-chuan/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang-DSK.html",
+    "name_kd": "Dai hoc Su pham Ky thuat - Dai hoc Da Nang"
+  },
+  {
+    "id": "423",
+    "code": "DTA",
+    "name": "Đại Học Phenikaa",
+    "alias": "dai-hoc-phenikaa",
+    "url": "/diem-chuan/dai-hoc-phenikaa-DTA.html",
+    "name_kd": "Dai Hoc Phenikaa"
+  },
+  {
+    "id": "262",
+    "code": "DTC",
+    "name": "Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên",
+    "alias": "dai-hoc-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-thai-nguyen-DTC.html",
+    "name_kd": "Dai hoc Cong Nghe Thong Tin va Truyen Thong – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "433",
+    "code": "DTD",
+    "name": "Đại Học Tây Đô",
+    "alias": "dai-hoc-tay-do",
+    "url": "/diem-chuan/dai-hoc-tay-do-DTD.html",
+    "name_kd": "Dai Hoc Tay Do"
+  },
+  {
+    "id": "359",
+    "code": "DTE",
+    "name": "Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên",
+    "alias": "dai-hoc-kinh-te-quan-tri-kinh-doanh-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/dai-hoc-kinh-te-quan-tri-kinh-doanh-dai-hoc-thai-nguyen-DTE.html",
+    "name_kd": "Dai Hoc Kinh Te  & Quan Tri Kinh Doanh – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "267",
+    "code": "DTF",
+    "name": "Khoa Ngoại Ngữ – Đại Học Thái Nguyên",
+    "alias": "khoa-ngoai-ngu-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/khoa-ngoai-ngu-dai-hoc-thai-nguyen-DTF.html",
+    "name_kd": "Khoa Ngoai Ngu – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "334",
+    "code": "DTH",
+    "name": "Đại Học Hoa Sen",
+    "alias": "dai-hoc-hoa-sen",
+    "url": "/diem-chuan/dai-hoc-hoa-sen-DTH.html",
+    "name_kd": "Dai Hoc Hoa Sen"
+  },
+  {
+    "id": "425",
+    "code": "DTL",
+    "name": "Đại Học Thăng Long",
+    "alias": "dai-hoc-thang-long",
+    "url": "/diem-chuan/dai-hoc-thang-long-DTL.html",
+    "name_kd": "Dai Hoc Thang Long"
+  },
+  {
+    "id": "470",
+    "code": "DTM",
+    "name": "ĐH Tài Nguyên môi trường TPHCM",
+    "alias": "dh-tai-nguyen-moi-truong-tphcm",
+    "url": "/diem-chuan/dh-tai-nguyen-moi-truong-tphcm-DTM.html",
+    "name_kd": "DH Tai Nguyen moi truong TPHCM"
+  },
+  {
+    "id": "390",
+    "code": "DTN",
+    "name": "Đại Học Nông Lâm – Đại Học Thái Nguyên",
+    "alias": "dai-hoc-nong-lam-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/dai-hoc-nong-lam-dai-hoc-thai-nguyen-DTN.html",
+    "name_kd": "Dai Hoc Nong Lam – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "571",
+    "code": "DTP",
+    "name": "Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai",
+    "alias": "phan-hieu-dai-hoc-thai-nguyen-tai-lao-cai",
+    "url": "/diem-chuan/phan-hieu-dai-hoc-thai-nguyen-tai-lao-cai-DTP.html",
+    "name_kd": "Phan Hieu Dai Hoc Thai Nguyen Tai Lao Cai"
+  },
+  {
+    "id": "477",
+    "code": "DTQ",
+    "name": "Khoa Quốc Tế - Đại Học Thái Nguyên",
+    "alias": "khoa-quoc-te-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/khoa-quoc-te-dai-hoc-thai-nguyen-DTQ.html",
+    "name_kd": "Khoa Quoc Te - Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "295",
+    "code": "DTS",
+    "name": "Đại Học Sư Phạm – Đại Học Thái Nguyên",
+    "alias": "daihoc-su-pham-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/daihoc-su-pham-dai-hoc-thai-nguyen-DTS.html",
+    "name_kd": "Dai Hoc Su Pham – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "304",
+    "code": "DTT",
+    "name": "Đại Học Tôn Đức Thắng",
+    "alias": "dai-hoc-ton-duc-thang",
+    "url": "/diem-chuan/dai-hoc-ton-duc-thang-DTT.html",
+    "name_kd": "Dai Hoc Ton Duc Thang"
+  },
+  {
+    "id": "445",
+    "code": "DTY",
+    "name": "Đại Học Y Dược – Đại Học Thái Nguyên",
+    "alias": "dai-hoc-y-duoc-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/dai-hoc-y-duoc-dai-hoc-thai-nguyen-DTY.html",
+    "name_kd": "Dai Hoc Y Duoc – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "345",
+    "code": "DTZ",
+    "name": "Đại Học Khoa Học – Đại Học Thái Nguyên",
+    "alias": "dai-hoc-khoa-hoc-dai-hoc-thai-nguyen",
+    "url": "/diem-chuan/dai-hoc-khoa-hoc-dai-hoc-thai-nguyen-DTZ.html",
+    "name_kd": "Dai Hoc Khoa Hoc – Dai Hoc Thai Nguyen"
+  },
+  {
+    "id": "537",
+    "code": "DVB",
+    "name": "Đại Học Việt Bắc",
+    "alias": "dai-hoc-viet-bac",
+    "url": "/diem-chuan/dai-hoc-viet-bac-DVB.html",
+    "name_kd": "Dai Hoc Viet Bac"
+  },
+  {
+    "id": "438",
+    "code": "DVH",
+    "name": "Đại Học Văn Hiến",
+    "alias": "dai-hoc-van-hien",
+    "url": "/diem-chuan/dai-hoc-van-hien-DVH.html",
+    "name_kd": "Dai Hoc Van Hien"
+  },
+  {
+    "id": "326",
+    "code": "DVL",
+    "name": "Đại Học Dân Lập Văn Lang",
+    "alias": "dai-hoc-dan-lap-van-lang",
+    "url": "/diem-chuan/dai-hoc-dan-lap-van-lang-DVL.html",
+    "name_kd": "Dai Hoc Dan Lap Van Lang"
+  },
+  {
+    "id": "467",
+    "code": "DVT",
+    "name": "Đại Học Trà Vinh",
+    "alias": "dai-hoc-tra-vinh",
+    "url": "/diem-chuan/dai-hoc-tra-vinh-DVT.html",
+    "name_kd": "Dai Hoc Tra Vinh"
+  },
+  {
+    "id": "315",
+    "code": "DVX",
+    "name": "Đại Học Công Nghệ Vạn Xuân",
+    "alias": "dai-hoc-cong-nghe-van-xuan",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-van-xuan-DVX.html",
+    "name_kd": "Dai Hoc Cong Nghe Van Xuan"
+  },
+  {
+    "id": "494",
+    "code": "EIU",
+    "name": "Đại Học Quốc Tế Miền Đông",
+    "alias": "dai-hoc-quoc-te-mien-dong",
+    "url": "/diem-chuan/dai-hoc-quoc-te-mien-dong-EIU.html",
+    "name_kd": "Dai Hoc Quoc Te Mien Dong"
+  },
+  {
+    "id": "474",
+    "code": "FBU",
+    "name": "Đại Học Tài Chính Ngân Hàng Hà Nội",
+    "alias": "dai-hoc-tai-chinh-ngan-hang-ha-noi",
+    "url": "/diem-chuan/dai-hoc-tai-chinh-ngan-hang-ha-noi-FBU.html",
+    "name_kd": "Dai Hoc Tai Chinh Ngan Hang Ha Noi"
+  },
+  {
+    "id": "329",
+    "code": "FPT",
+    "name": "Đại Học FPT",
+    "alias": "dai-hoc-fpt",
+    "url": "/diem-chuan/dai-hoc-fpt-FPT.html",
+    "name_kd": "Dai Hoc FPT"
+  },
+  {
+    "id": "330",
+    "code": "GHA",
+    "name": "Đại Học Giao Thông Vận Tải ( Cơ sở Phía Bắc )",
+    "alias": "dai-hoc-giao-thong-van-tai-co-so-phia-bac",
+    "url": "/diem-chuan/dai-hoc-giao-thong-van-tai-co-so-phia-bac-GHA.html",
+    "name_kd": "Dai Hoc Giao Thong Van Tai ( Co so Phia Bac )"
+  },
+  {
+    "id": "417",
+    "code": "GNT",
+    "name": "Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+    "alias": "dai-hoc-su-pham-nghe-thuat-trung-uong",
+    "url": "/diem-chuan/dai-hoc-su-pham-nghe-thuat-trung-uong-GNT.html",
+    "name_kd": "Dai Hoc Su Pham Nghe Thuat Trung Uong"
+  },
+  {
+    "id": "331",
+    "code": "GSA",
+    "name": "Đại Học Giao Thông Vận Tải ( Cơ sở Phía Nam)",
+    "alias": "dai-hoc-giao-thong-van-tai-co-so-phia-nam",
+    "url": "/diem-chuan/dai-hoc-giao-thong-van-tai-co-so-phia-nam-GSA.html",
+    "name_kd": "Dai Hoc Giao Thong Van Tai ( Co so Phia Nam)"
+  },
+  {
+    "id": "58",
+    "code": "GTA",
+    "name": "Đại học Công nghệ Giao thông vận tải",
+    "alias": "dai-hoc-cong-nghe-giao-thong-van-tai",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-giao-thong-van-tai-GTA.html",
+    "name_kd": "Dai hoc Cong nghe Giao thong van tai"
+  },
+  {
+    "id": "332",
+    "code": "GTS",
+    "name": "Đại Học Giao Thông Vận Tải TPHCM",
+    "alias": "dai-hoc-giao-thong-van-tai-tphcm",
+    "url": "/diem-chuan/dai-hoc-giao-thong-van-tai-tphcm-GTS.html",
+    "name_kd": "Dai Hoc Giao Thong Van Tai TPHCM"
+  },
+  {
+    "id": "224",
+    "code": "HBT",
+    "name": "Học Viện Báo Chí – Tuyên Truyền",
+    "alias": "hoc-vien-bao-chi-tuyen-truyen",
+    "url": "/diem-chuan/hoc-vien-bao-chi-tuyen-truyen-HBT.html",
+    "name_kd": "Hoc Vien Bao Chi – Tuyen Truyen"
+  },
+  {
+    "id": "479",
+    "code": "HCP",
+    "name": "Học Viên Chính Sách và Phát Triển",
+    "alias": "hoc-vien-chinh-sach-va-phat-trien",
+    "url": "/diem-chuan/hoc-vien-chinh-sach-va-phat-trien-HCP.html",
+    "name_kd": "Hoc Vien Chinh Sach va Phat Trien"
+  },
+  {
+    "id": "343",
+    "code": "HDT",
+    "name": "Đại Học Hồng Đức",
+    "alias": "dai-hoc-hong-duc",
+    "url": "/diem-chuan/dai-hoc-hong-duc-HDT.html",
+    "name_kd": "Dai Hoc Hong Duc"
+  },
+  {
+    "id": "236",
+    "code": "HEH",
+    "name": "Học Viện Hậu Cần - Hệ Quân sự",
+    "alias": "hoc-vien-hau-can-he-quan-su",
+    "url": "/diem-chuan/hoc-vien-hau-can-he-quan-su-HEH.html",
+    "name_kd": "Hoc Vien Hau Can - He Quan su"
+  },
+  {
+    "id": "464",
+    "code": "HFH",
+    "name": "Học Viện Hậu Cần - Hệ Dân sự",
+    "alias": "hoc-vien-hau-can-he-dan-su",
+    "url": "/diem-chuan/hoc-vien-hau-can-he-dan-su-HFH.html",
+    "name_kd": "Hoc Vien Hau Can - He Dan su"
+  },
+  {
+    "id": "286",
+    "code": "HGH",
+    "name": "Trường Sĩ Quan Phòng Hóa",
+    "alias": "truong-si-quan-phong-hoa",
+    "url": "/diem-chuan/truong-si-quan-phong-hoa-HGH.html",
+    "name_kd": "Truong Si Quan Phong Hoa"
+  },
+  {
+    "id": "338",
+    "code": "HHA",
+    "name": "Đại Học Hàng Hải",
+    "alias": "dai-hoc-hang-hai",
+    "url": "/diem-chuan/dai-hoc-hang-hai-HHA.html",
+    "name_kd": "Dai Hoc Hang Hai"
+  },
+  {
+    "id": "230",
+    "code": "HHK",
+    "name": "Học Viện Hàng Không Việt Nam",
+    "alias": "hoc-vien-hang-khong-viet-nam",
+    "url": "/diem-chuan/hoc-vien-hang-khong-viet-nam-HHK.html",
+    "name_kd": "Hoc Vien Hang Khong Viet Nam"
+  },
+  {
+    "id": "337",
+    "code": "HHT",
+    "name": "Đại Học Hà Tĩnh",
+    "alias": "dai-hoc-ha-tinh",
+    "url": "/diem-chuan/dai-hoc-ha-tinh-HHT.html",
+    "name_kd": "Dai Hoc Ha Tinh"
+  },
+  {
+    "id": "322",
+    "code": "HIU",
+    "name": "Đại Học Quốc Tế Hồng Bàng",
+    "alias": "dai-hoc-quoc-te-hong-bang",
+    "url": "/diem-chuan/dai-hoc-quoc-te-hong-bang-HIU.html",
+    "name_kd": "Dai Hoc Quoc Te Hong Bang"
+  },
+  {
+    "id": "573",
+    "code": "HLU",
+    "name": "Đại Học Hạ Long",
+    "alias": "dai-hoc-ha-long",
+    "url": "/diem-chuan/dai-hoc-ha-long-HLU.html",
+    "name_kd": "Dai Hoc Ha Long"
+  },
+  {
+    "id": "126",
+    "code": "HNM",
+    "name": "Đại học Thủ Đô Hà Nội",
+    "alias": "dai-hoc-thu-do-ha-noi",
+    "url": "/diem-chuan/dai-hoc-thu-do-ha-noi-HNM.html",
+    "name_kd": "Dai hoc Thu Do Ha Noi"
+  },
+  {
+    "id": "556",
+    "code": "HPN",
+    "name": "Học Viện Phụ Nữ Việt Nam",
+    "alias": "hoc-vien-phu-nu-viet-nam",
+    "url": "/diem-chuan/hoc-vien-phu-nu-viet-nam-HPN.html",
+    "name_kd": "Hoc Vien Phu Nu Viet Nam"
+  },
+  {
+    "id": "234",
+    "code": "HQH",
+    "name": "Học Viện Hải Quân",
+    "alias": "hoc-vien-hai-quan",
+    "url": "/diem-chuan/hoc-vien-hai-quan-HQH.html",
+    "name_kd": "Hoc Vien Hai Quan"
+  },
+  {
+    "id": "246",
+    "code": "HQT",
+    "name": "Học Viện Ngoại Giao",
+    "alias": "hoc-vien-ngoai-giao",
+    "url": "/diem-chuan/hoc-vien-ngoai-giao-HQT.html",
+    "name_kd": "Hoc Vien Ngoai Giao"
+  },
+  {
+    "id": "579",
+    "code": "HTA",
+    "name": "Học viện Tòa án",
+    "alias": "hoc-vien-toa-an",
+    "url": "/diem-chuan/hoc-vien-toa-an-HTA.html",
+    "name_kd": "Hoc vien Toa an"
+  },
+  {
+    "id": "258",
+    "code": "HTC",
+    "name": "Học Viện Tài Chính",
+    "alias": "hoc-vien-tai-chinh",
+    "url": "/diem-chuan/hoc-vien-tai-chinh-HTC.html",
+    "name_kd": "Hoc Vien Tai Chinh"
+  },
+  {
+    "id": "525",
+    "code": "HTN",
+    "name": "Học Viện Thanh Thiếu Niên Việt Nam",
+    "alias": "hoc-vien-thanh-thieu-nien-viet-nam",
+    "url": "/diem-chuan/hoc-vien-thanh-thieu-nien-viet-nam-HTN.html",
+    "name_kd": "Hoc Vien Thanh Thieu Nien Viet Nam"
+  },
+  {
+    "id": "310",
+    "code": "HUI",
+    "name": "Đại Học Công Nghiệp TPHCM",
+    "alias": "dai-hoc-cong-nghiep-tphcm",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-tphcm-HUI.html",
+    "name_kd": "Dai Hoc Cong Nghiep TPHCM"
+  },
+  {
+    "id": "580",
+    "code": "HVC",
+    "name": "Học viện cán bộ TPHCM",
+    "alias": "hoc-vien-can-bo-tphcm",
+    "url": "/diem-chuan/hoc-vien-can-bo-tphcm-HVC.html",
+    "name_kd": "Hoc vien can bo TPHCM"
+  },
+  {
+    "id": "562",
+    "code": "HVN",
+    "name": "Học Viện Nông Nghiệp Việt Nam",
+    "alias": "hoc-vien-nong-nghiep-viet-nam",
+    "url": "/diem-chuan/hoc-vien-nong-nghiep-viet-nam-HVN.html",
+    "name_kd": "Hoc Vien Nong Nghiep Viet Nam"
+  },
+  {
+    "id": "259",
+    "code": "HYD",
+    "name": "Học Viện Y Dược Học Cổ Truyền Việt Nam",
+    "alias": "hoc-vien-y-duoc-hoc-co-truyen-viet-nam",
+    "url": "/diem-chuan/hoc-vien-y-duoc-hoc-co-truyen-viet-nam-HYD.html",
+    "name_kd": "Hoc Vien Y Duoc Hoc Co Truyen Viet Nam"
+  },
+  {
+    "id": "547",
+    "code": "KCC",
+    "name": "Đại học Kỹ Thuật Công Nghệ Cần Thơ",
+    "alias": "dai-hoc-ky-thuat-cong-nghe-can-tho",
+    "url": "/diem-chuan/dai-hoc-ky-thuat-cong-nghe-can-tho-KCC.html",
+    "name_kd": "Dai hoc Ky Thuat Cong Nghe Can Tho"
+  },
+  {
+    "id": "278",
+    "code": "KGC",
+    "name": "Trường Sĩ Quan Không Quân - Hệ Cao đẳng",
+    "alias": "truong-si-quan-khong-quan-he-cao-dang",
+    "url": "/diem-chuan/truong-si-quan-khong-quan-he-cao-dang-KGC.html",
+    "name_kd": "Truong Si Quan Khong Quan - He Cao dang"
+  },
+  {
+    "id": "279",
+    "code": "KGH",
+    "name": "Trường Sĩ Quan Không Quân - Hệ Đại học",
+    "alias": "truong-si-quan-khong-quan-he-dai-hoc",
+    "url": "/diem-chuan/truong-si-quan-khong-quan-he-dai-hoc-KGH.html",
+    "name_kd": "Truong Si Quan Khong Quan - He Dai hoc"
+  },
+  {
+    "id": "357",
+    "code": "KHA",
+    "name": "Đại Học Kinh Tế Quốc Dân",
+    "alias": "dai-hoc-kinh-te-quoc-dan",
+    "url": "/diem-chuan/dai-hoc-kinh-te-quoc-dan-KHA.html",
+    "name_kd": "Dai Hoc Kinh Te Quoc Dan"
+  },
+  {
+    "id": "245",
+    "code": "KMA",
+    "name": "Học Viện Kỹ Thuật Mật Mã",
+    "alias": "hoc-vien-ky-thuat-mat-ma",
+    "url": "/diem-chuan/hoc-vien-ky-thuat-mat-ma-KMA.html",
+    "name_kd": "Hoc Vien Ky Thuat Mat Ma"
+  },
+  {
+    "id": "241",
+    "code": "KQH",
+    "name": "Học Viện Kĩ Thuật Quân Sự - Hệ Quân sự",
+    "alias": "hoc-vien-ki-thuat-quan-su-he-quan-su",
+    "url": "/diem-chuan/hoc-vien-ki-thuat-quan-su-he-quan-su-KQH.html",
+    "name_kd": "Hoc Vien Ki Thuat Quan Su - He Quan su"
+  },
+  {
+    "id": "358",
+    "code": "KSA",
+    "name": "Đại Học Kinh Tế TPHCM",
+    "alias": "dai-hoc-kinh-te-tphcm",
+    "url": "/diem-chuan/dai-hoc-kinh-te-tphcm-KSA.html",
+    "name_kd": "Dai Hoc Kinh Te TPHCM"
+  },
+  {
+    "id": "360",
+    "code": "KTA",
+    "name": "Đại Học Kiến Trúc Hà Nội",
+    "alias": "dai-hoc-kien-truc-ha-noi",
+    "url": "/diem-chuan/dai-hoc-kien-truc-ha-noi-KTA.html",
+    "name_kd": "Dai Hoc Kien Truc Ha Noi"
+  },
+  {
+    "id": "361",
+    "code": "KTS",
+    "name": "Đại Học Kiến Trúc TPHCM",
+    "alias": "dai-hoc-kien-truc-tphcm",
+    "url": "/diem-chuan/dai-hoc-kien-truc-tphcm-KTS.html",
+    "name_kd": "Dai Hoc Kien Truc TPHCM"
+  },
+  {
+    "id": "280",
+    "code": "LAH",
+    "name": "Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn",
+    "alias": "truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan",
+    "url": "/diem-chuan/truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan-LAH.html",
+    "name_kd": "Truong Si Quan Luc Quan 1 - Dai hoc Tran Quoc Tuan"
+  },
+  {
+    "id": "283",
+    "code": "LBH",
+    "name": "Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ",
+    "alias": "truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue",
+    "url": "/diem-chuan/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue-LBH.html",
+    "name_kd": "Truong Si Quan Luc Quan 2 - Dai hoc Nguyen Hue"
+  },
+  {
+    "id": "487",
+    "code": "LCH",
+    "name": "Trường Sĩ Quan Chính Trị - Đại Học Chính Trị",
+    "alias": "truong-si-quan-chinh-tri-dai-hoc-chinh-tri",
+    "url": "/diem-chuan/truong-si-quan-chinh-tri-dai-hoc-chinh-tri-LCH.html",
+    "name_kd": "Truong Si Quan Chinh Tri - Dai Hoc Chinh Tri"
+  },
+  {
+    "id": "316",
+    "code": "LDA",
+    "name": "Đại Học Công Đoàn",
+    "alias": "dai-hoc-cong-doan",
+    "url": "/diem-chuan/dai-hoc-cong-doan-LDA.html",
+    "name_kd": "Dai Hoc Cong Doan"
+  },
+  {
+    "id": "370",
+    "code": "LNH",
+    "name": "Đại Học Lâm Nghiệp ( Cơ sở 1 )",
+    "alias": "dai-hoc-lam-nghiep-co-so-1",
+    "url": "/diem-chuan/dai-hoc-lam-nghiep-co-so-1-LNH.html",
+    "name_kd": "Dai Hoc Lam Nghiep ( Co so 1 )"
+  },
+  {
+    "id": "368",
+    "code": "LPH",
+    "name": "Đại Học Luật Hà Nội",
+    "alias": "dai-hoc-luat-ha-noi",
+    "url": "/diem-chuan/dai-hoc-luat-ha-noi-LPH.html",
+    "name_kd": "Dai Hoc Luat Ha Noi"
+  },
+  {
+    "id": "369",
+    "code": "LPS",
+    "name": "Đại Học Luật TPHCM",
+    "alias": "dai-hoc-luat-tphcm",
+    "url": "/diem-chuan/dai-hoc-luat-tphcm-LPS.html",
+    "name_kd": "Dai Hoc Luat TPHCM"
+  },
+  {
+    "id": "376",
+    "code": "MBS",
+    "name": "Đại Học Mở TPHCM",
+    "alias": "dai-hoc-mo-tphcm",
+    "url": "/diem-chuan/dai-hoc-mo-tphcm-MBS.html",
+    "name_kd": "Dai Hoc Mo TPHCM"
+  },
+  {
+    "id": "375",
+    "code": "MDA",
+    "name": "Đại Học Mỏ Địa Chất",
+    "alias": "dai-hoc-mo-dia-chat",
+    "url": "/diem-chuan/dai-hoc-mo-dia-chat-MDA.html",
+    "name_kd": "Dai Hoc Mo Dia Chat"
+  },
+  {
+    "id": "296",
+    "code": "MHN",
+    "name": "Viện Đại Học Mở Hà Nội",
+    "alias": "vien-dai-hoc-mo-ha-noi",
+    "url": "/diem-chuan/vien-dai-hoc-mo-ha-noi-MHN.html",
+    "name_kd": "Vien Dai Hoc Mo Ha Noi"
+  },
+  {
+    "id": "372",
+    "code": "MTC",
+    "name": "Đại Học Mỹ Thuật Công Nghiệp",
+    "alias": "dai-hoc-my-thuat-cong-nghiep",
+    "url": "/diem-chuan/dai-hoc-my-thuat-cong-nghiep-MTC.html",
+    "name_kd": "Dai Hoc My Thuat Cong Nghiep"
+  },
+  {
+    "id": "374",
+    "code": "MTH",
+    "name": "Đại Học Mỹ Thuật Việt Nam",
+    "alias": "dai-hoc-my-thuat-viet-nam",
+    "url": "/diem-chuan/dai-hoc-my-thuat-viet-nam-MTH.html",
+    "name_kd": "Dai Hoc My Thuat Viet Nam"
+  },
+  {
+    "id": "472",
+    "code": "MTU",
+    "name": "Đại Học Xây Dựng Miền Tây",
+    "alias": "dai-hoc-xay-dung-mien-tay",
+    "url": "/diem-chuan/dai-hoc-xay-dung-mien-tay-MTU.html",
+    "name_kd": "Dai Hoc Xay Dung Mien Tay"
+  },
+  {
+    "id": "336",
+    "code": "NHF",
+    "name": "Đại Học Hà Nội",
+    "alias": "dai-hoc-ha-noi",
+    "url": "/diem-chuan/dai-hoc-ha-noi-NHF.html",
+    "name_kd": "Dai Hoc Ha Noi"
+  },
+  {
+    "id": "247",
+    "code": "NHH",
+    "name": "Học Viện Ngân Hàng",
+    "alias": "hoc-vien-ngan-hang",
+    "url": "/diem-chuan/hoc-vien-ngan-hang-NHH.html",
+    "name_kd": "Hoc Vien Ngan Hang"
+  },
+  {
+    "id": "385",
+    "code": "NHS",
+    "name": "Đại Học Ngân Hàng TPHCM",
+    "alias": "dai-hoc-ngan-hang-tphcm",
+    "url": "/diem-chuan/dai-hoc-ngan-hang-tphcm-NHS.html",
+    "name_kd": "Dai Hoc Ngan Hang TPHCM"
+  },
+  {
+    "id": "391",
+    "code": "NLS",
+    "name": "Đại Học Nông Lâm TPHCM",
+    "alias": "dai-hoc-nong-lam-tphcm",
+    "url": "/diem-chuan/dai-hoc-nong-lam-tphcm-NLS.html",
+    "name_kd": "Dai Hoc Nong Lam TPHCM"
+  },
+  {
+    "id": "239",
+    "code": "NQH",
+    "name": "Học Viện Khoa Học Quân Sự - Hệ Quân sự",
+    "alias": "hoc-vien-khoa-hoc-quan-su-he-quan-su",
+    "url": "/diem-chuan/hoc-vien-khoa-hoc-quan-su-he-quan-su-NQH.html",
+    "name_kd": "Hoc Vien Khoa Hoc Quan Su - He Quan su"
+  },
+  {
+    "id": "382",
+    "code": "NTH",
+    "name": "Đại Học Ngoại Thương ( Cơ sở phía Bắc )",
+    "alias": "dai-hoc-ngoai-thuong-co-so-phia-bac",
+    "url": "/diem-chuan/dai-hoc-ngoai-thuong-co-so-phia-bac-NTH.html",
+    "name_kd": "Dai Hoc Ngoai Thuong ( Co so phia Bac )"
+  },
+  {
+    "id": "383",
+    "code": "NTS",
+    "name": "Đại Học Ngoại Thương (phía Nam)",
+    "alias": "dai-hoc-ngoai-thuong-phia-nam",
+    "url": "/diem-chuan/dai-hoc-ngoai-thuong-phia-nam-NTS.html",
+    "name_kd": "Dai Hoc Ngoai Thuong (phia Nam)"
+  },
+  {
+    "id": "473",
+    "code": "NTT",
+    "name": "Đại Học Nguyễn Tất Thành",
+    "alias": "dai-hoc-nguyen-tat-thanh",
+    "url": "/diem-chuan/dai-hoc-nguyen-tat-thanh-NTT.html",
+    "name_kd": "Dai Hoc Nguyen Tat Thanh"
+  },
+  {
+    "id": "384",
+    "code": "NTU",
+    "name": "Đại Học Nguyễn Trãi",
+    "alias": "dai-hoc-nguyen-trai",
+    "url": "/diem-chuan/dai-hoc-nguyen-trai-NTU.html",
+    "name_kd": "Dai Hoc Nguyen Trai"
+  },
+  {
+    "id": "284",
+    "code": "PBH",
+    "name": "Trường Sĩ Quan Pháo Binh",
+    "alias": "truong-si-quan-phao-binh",
+    "url": "/diem-chuan/truong-si-quan-phao-binh-PBH.html",
+    "name_kd": "Truong Si Quan Phao Binh"
+  },
+  {
+    "id": "394",
+    "code": "PCH",
+    "name": "Đại Học Phòng Cháy Chữa Cháy ( Phía Bắc )",
+    "alias": "dai-hoc-phong-chay-chua-chay-phia-bac",
+    "url": "/diem-chuan/dai-hoc-phong-chay-chua-chay-phia-bac-PCH.html",
+    "name_kd": "Dai Hoc Phong Chay Chua Chay ( Phia Bac )"
+  },
+  {
+    "id": "542",
+    "code": "PCH1",
+    "name": "Đại Học Phòng Cháy Chữa Cháy ( Hệ Dân sự Phía Bắc )",
+    "alias": "dai-hoc-phong-chay-chua-chay-he-dan-su-phia-bac",
+    "url": "/diem-chuan/dai-hoc-phong-chay-chua-chay-he-dan-su-phia-bac-PCH1.html",
+    "name_kd": "Dai Hoc Phong Chay Chua Chay ( He Dan su Phia Bac )"
+  },
+  {
+    "id": "395",
+    "code": "PCS",
+    "name": "Đại Học Phòng Cháy Chữa Cháy (phía Nam)",
+    "alias": "dai-hoc-phong-chay-chua-chay-phia-nam",
+    "url": "/diem-chuan/dai-hoc-phong-chay-chua-chay-phia-nam-PCS.html",
+    "name_kd": "Dai Hoc Phong Chay Chua Chay (phia Nam)"
+  },
+  {
+    "id": "543",
+    "code": "PCS1",
+    "name": "Đại Học Phòng Cháy Chữa Cháy (Hệ Dân sự Phía Nam)",
+    "alias": "dai-hoc-phong-chay-chua-chay-he-dan-su-phia-nam",
+    "url": "/diem-chuan/dai-hoc-phong-chay-chua-chay-he-dan-su-phia-nam-PCS1.html",
+    "name_kd": "Dai Hoc Phong Chay Chua Chay (He Dan su Phia Nam)"
+  },
+  {
+    "id": "252",
+    "code": "PKH",
+    "name": "Học Viện Phòng Không – Không Quân",
+    "alias": "hoc-vien-phong-khong-khong-quan",
+    "url": "/diem-chuan/hoc-vien-phong-khong-khong-quan-PKH.html",
+    "name_kd": "Hoc Vien Phong Khong – Khong Quan"
+  },
+  {
+    "id": "526",
+    "code": "PVU",
+    "name": "Đại Học Dầu Khí Việt Nam",
+    "alias": "dai-hoc-dau-khi-viet-nam",
+    "url": "/diem-chuan/dai-hoc-dau-khi-viet-nam-PVU.html",
+    "name_kd": "Dai Hoc Dau Khi Viet Nam"
+  },
+  {
+    "id": "352",
+    "code": "QHE",
+    "name": "Đại Học Kinh Tế – Đại Học Quốc Gia Hà Nội",
+    "alias": "dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi-QHE.html",
+    "name_kd": "Dai Hoc Kinh Te – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "380",
+    "code": "QHF",
+    "name": "Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội",
+    "alias": "dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi-QHF.html",
+    "name_kd": "Dai Hoc Ngoai Ngu – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "311",
+    "code": "QHI",
+    "name": "Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội",
+    "alias": "dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi-QHI.html",
+    "name_kd": "Dai Hoc Cong Nghe – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "266",
+    "code": "QHL",
+    "name": "Khoa Luật – Đại Học Quốc Gia Hà Nội",
+    "alias": "khoa-luat-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/khoa-luat-dai-hoc-quoc-gia-ha-noi-QHL.html",
+    "name_kd": "Khoa Luat – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "268",
+    "code": "QHQ",
+    "name": "Khoa Quốc Tế – Đại Học Quốc Gia Hà Nội",
+    "alias": "khoa-quoc-te-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/khoa-quoc-te-dai-hoc-quoc-gia-ha-noi-QHQ.html",
+    "name_kd": "Khoa Quoc Te – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "533",
+    "code": "QHS",
+    "name": "Đại Học Giáo Dục - Đại học Quốc Gia Hà Nội",
+    "alias": "dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi-QHS.html",
+    "name_kd": "Dai Hoc Giao Duc - Dai hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "346",
+    "code": "QHT",
+    "name": "Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội",
+    "alias": "dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi-QHT.html",
+    "name_kd": "Dai Hoc Khoa Hoc Tu Nhien – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "348",
+    "code": "QHX",
+    "name": "Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia Hà Nội",
+    "alias": "dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi-QHX.html",
+    "name_kd": "Dai Hoc Khoa Hoc Xa Hoi va Nhan Van – Dai Hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "471",
+    "code": "QHY",
+    "name": "Khoa Y Dược - Đại học Quốc Gia Hà Nội",
+    "alias": "khoa-y-duoc-dai-hoc-quoc-gia-ha-noi",
+    "url": "/diem-chuan/khoa-y-duoc-dai-hoc-quoc-gia-ha-noi-QHY.html",
+    "name_kd": "Khoa Y Duoc - Dai hoc Quoc Gia Ha Noi"
+  },
+  {
+    "id": "300",
+    "code": "QSB",
+    "name": "Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM",
+    "alias": "dai-hoc-bach-khoa-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/dai-hoc-bach-khoa-dai-hoc-quoc-gia-tphcm-QSB.html",
+    "name_kd": "Dai Hoc Bach Khoa – Dai Hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "313",
+    "code": "QSC",
+    "name": "Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM",
+    "alias": "dai-hoc-cong-nghe-thong-tin-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/dai-hoc-cong-nghe-thong-tin-dai-hoc-quoc-gia-tphcm-QSC.html",
+    "name_kd": "Dai Hoc Cong Nghe Thong Tin – Dai Hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "265",
+    "code": "QSK",
+    "name": "Đại học Kinh Tế – Luật – Đại Học Quốc Gia TPHCM",
+    "alias": "dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tphcm-QSK.html",
+    "name_kd": "Dai hoc Kinh Te – Luat – Dai Hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "402",
+    "code": "QSQ",
+    "name": "Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM",
+    "alias": "dai-hoc-quoc-te-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/dai-hoc-quoc-te-dai-hoc-quoc-gia-tphcm-QSQ.html",
+    "name_kd": "Dai Hoc Quoc Te – Dai Hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "347",
+    "code": "QST",
+    "name": "Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia TPHCM",
+    "alias": "dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tphcm-QST.html",
+    "name_kd": "Dai Hoc Khoa Hoc Tu Nhien – Dai Hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "349",
+    "code": "QSX",
+    "name": "Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia TPHCM",
+    "alias": "dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-tphcm-QSX.html",
+    "name_kd": "Dai Hoc Khoa Hoc Xa Hoi va Nhan Van – Dai Hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "462",
+    "code": "QSY",
+    "name": "Khoa Y - Đại học Quốc Gia TPHCM",
+    "alias": "khoa-y-dai-hoc-quoc-gia-tphcm",
+    "url": "/diem-chuan/khoa-y-dai-hoc-quoc-gia-tphcm-QSY.html",
+    "name_kd": "Khoa Y - Dai hoc Quoc Gia TPHCM"
+  },
+  {
+    "id": "17",
+    "code": "SDU",
+    "name": "Đại học Sao Đỏ",
+    "alias": "dai-hoc-sao-do",
+    "url": "/diem-chuan/dai-hoc-sao-do-SDU.html",
+    "name_kd": "Dai hoc Sao Do"
+  },
+  {
+    "id": "407",
+    "code": "SGD",
+    "name": "Đại Học Sài Gòn",
+    "alias": "dai-hoc-sai-gon",
+    "url": "/diem-chuan/dai-hoc-sai-gon-SGD.html",
+    "name_kd": "Dai Hoc Sai Gon"
+  },
+  {
+    "id": "413",
+    "code": "SKH",
+    "name": "Đại Học Sư Phạm Kỹ Thuật Hưng Yên",
+    "alias": "dai-hoc-su-pham-ky-thuat-hung-yen",
+    "url": "/diem-chuan/dai-hoc-su-pham-ky-thuat-hung-yen-SKH.html",
+    "name_kd": "Dai Hoc Su Pham Ky Thuat Hung Yen"
+  },
+  {
+    "id": "414",
+    "code": "SKN",
+    "name": "Đại Học Sư Phạm Kỹ Thuật Nam Định",
+    "alias": "dai-hoc-su-pham-ky-thuat-nam-dinh",
+    "url": "/diem-chuan/dai-hoc-su-pham-ky-thuat-nam-dinh-SKN.html",
+    "name_kd": "Dai Hoc Su Pham Ky Thuat Nam Dinh"
+  },
+  {
+    "id": "416",
+    "code": "SKV",
+    "name": "Đại Học Sư Phạm Kỹ Thuật Vinh",
+    "alias": "dai-hoc-su-pham-ky-thuat-vinh",
+    "url": "/diem-chuan/dai-hoc-su-pham-ky-thuat-vinh-SKV.html",
+    "name_kd": "Dai Hoc Su Pham Ky Thuat Vinh"
+  },
+  {
+    "id": "275",
+    "code": "SNH",
+    "name": "Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền",
+    "alias": "truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen",
+    "url": "/diem-chuan/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen-SNH.html",
+    "name_kd": "Truong Si Quan Cong Binh - He Quan su - Dai hoc Ngo Quyen"
+  },
+  {
+    "id": "412",
+    "code": "SP2",
+    "name": "Đại Học Sư Phạm Hà Nội 2",
+    "alias": "dai-hoc-su-pham-ha-noi-2",
+    "url": "/diem-chuan/dai-hoc-su-pham-ha-noi-2-SP2.html",
+    "name_kd": "Dai Hoc Su Pham Ha Noi 2"
+  },
+  {
+    "id": "459",
+    "code": "SPD",
+    "name": "Đại Học Đồng Tháp",
+    "alias": "dai-hoc-dong-thap",
+    "url": "/diem-chuan/dai-hoc-dong-thap-SPD.html",
+    "name_kd": "Dai Hoc Dong Thap"
+  },
+  {
+    "id": "411",
+    "code": "SPH",
+    "name": "Đại Học Sư Phạm Hà Nội",
+    "alias": "dai-hoc-su-pham-ha-noi",
+    "url": "/diem-chuan/dai-hoc-su-pham-ha-noi-SPH.html",
+    "name_kd": "Dai Hoc Su Pham Ha Noi"
+  },
+  {
+    "id": "415",
+    "code": "SPK",
+    "name": "Đại Học Sư Phạm Kỹ Thuật TPHCM",
+    "alias": "dai-hoc-su-pham-ky-thuat-tphcm",
+    "url": "/diem-chuan/dai-hoc-su-pham-ky-thuat-tphcm-SPK.html",
+    "name_kd": "Dai Hoc Su Pham Ky Thuat TPHCM"
+  },
+  {
+    "id": "420",
+    "code": "SPS",
+    "name": "Đại Học Sư Phạm TPHCM",
+    "alias": "dai-hoc-su-pham-tphcm",
+    "url": "/diem-chuan/dai-hoc-su-pham-tphcm-SPS.html",
+    "name_kd": "Dai Hoc Su Pham TPHCM"
+  },
+  {
+    "id": "419",
+    "code": "STS",
+    "name": "Đại Học Sư Phạm Thể DụcThể Thao TPHCM",
+    "alias": "dai-hoc-su-pham-the-ducthe-thao-tphcm",
+    "url": "/diem-chuan/dai-hoc-su-pham-the-ducthe-thao-tphcm-STS.html",
+    "name_kd": "Dai Hoc Su Pham The DucThe Thao TPHCM"
+  },
+  {
+    "id": "297",
+    "code": "TAG",
+    "name": "Đại Học An Giang",
+    "alias": "dai-hoc-an-giang",
+    "url": "/diem-chuan/dai-hoc-an-giang-TAG.html",
+    "name_kd": "Dai Hoc An Giang"
+  },
+  {
+    "id": "424",
+    "code": "TBD",
+    "name": "Đại Học Thái Bình Dương",
+    "alias": "dai-hoc-thai-binh-duong",
+    "url": "/diem-chuan/dai-hoc-thai-binh-duong-TBD.html",
+    "name_kd": "Dai Hoc Thai Binh Duong"
+  },
+  {
+    "id": "318",
+    "code": "TCT",
+    "name": "Đại Học Cần Thơ",
+    "alias": "dai-hoc-can-tho",
+    "url": "/diem-chuan/dai-hoc-can-tho-TCT.html",
+    "name_kd": "Dai Hoc Can Tho"
+  },
+  {
+    "id": "427",
+    "code": "TDB",
+    "name": "Đại Học Thể Dục Thể Thao Bắc Ninh",
+    "alias": "dai-hoc-the-duc-the-thao-bac-ninh",
+    "url": "/diem-chuan/dai-hoc-the-duc-the-thao-bac-ninh-TDB.html",
+    "name_kd": "Dai Hoc The Duc The Thao Bac Ninh"
+  },
+  {
+    "id": "29",
+    "code": "TDD",
+    "name": "Đại học Thành Đô",
+    "alias": "dai-hoc-thanh-do",
+    "url": "/diem-chuan/dai-hoc-thanh-do-TDD.html",
+    "name_kd": "Dai hoc Thanh Do"
+  },
+  {
+    "id": "418",
+    "code": "TDH",
+    "name": "Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội",
+    "alias": "dai-hoc-su-pham-the-duc-the-thao-ha-noi",
+    "url": "/diem-chuan/dai-hoc-su-pham-the-duc-the-thao-ha-noi-TDH.html",
+    "name_kd": "Dai Hoc Su Pham The Duc The Thao Ha Noi"
+  },
+  {
+    "id": "456",
+    "code": "TDL",
+    "name": "Đại Học Đà Lạt",
+    "alias": "dai-hoc-da-lat",
+    "url": "/diem-chuan/dai-hoc-da-lat-TDL.html",
+    "name_kd": "Dai Hoc Da Lat"
+  },
+  {
+    "id": "460",
+    "code": "TDM",
+    "name": "Đại học Thủ Dầu Một",
+    "alias": "dai-hoc-thu-dau-mot",
+    "url": "/diem-chuan/dai-hoc-thu-dau-mot-TDM.html",
+    "name_kd": "Dai hoc Thu Dau Mot"
+  },
+  {
+    "id": "435",
+    "code": "TDV",
+    "name": "Đại Học Vinh",
+    "alias": "dai-hoc-vinh",
+    "url": "/diem-chuan/dai-hoc-vinh-TDV.html",
+    "name_kd": "Dai Hoc Vinh"
+  },
+  {
+    "id": "293",
+    "code": "TGH",
+    "name": "Trường Sĩ  Quan Tăng – Thiết Giáp",
+    "alias": "truong-si-quan-tang-thiet-giap",
+    "url": "/diem-chuan/truong-si-quan-tang-thiet-giap-TGH.html",
+    "name_kd": "Truong Si  Quan Tang – Thiet Giap"
+  },
+  {
+    "id": "342",
+    "code": "THP",
+    "name": "Đại Học Hải Phòng",
+    "alias": "dai-hoc-hai-phong",
+    "url": "/diem-chuan/dai-hoc-hai-phong-THP.html",
+    "name_kd": "Dai Hoc Hai Phong"
+  },
+  {
+    "id": "340",
+    "code": "THV",
+    "name": "Đại Học Hùng Vương",
+    "alias": "dai-hoc-hung-vuong",
+    "url": "/diem-chuan/dai-hoc-hung-vuong-THV.html",
+    "name_kd": "Dai Hoc Hung Vuong"
+  },
+  {
+    "id": "583",
+    "code": "TKG",
+    "name": "Đại học Kiên Giang",
+    "alias": "dai-hoc-kien-giang",
+    "url": "/diem-chuan/dai-hoc-kien-giang-TKG.html",
+    "name_kd": "Dai hoc Kien Giang"
+  },
+  {
+    "id": "421",
+    "code": "TLA",
+    "name": "Đại Học Thủy Lợi ( Cơ sở 1 )",
+    "alias": "dai-hoc-thuy-loi-co-so-1",
+    "url": "/diem-chuan/dai-hoc-thuy-loi-co-so-1-TLA.html",
+    "name_kd": "Dai Hoc Thuy Loi ( Co so 1 )"
+  },
+  {
+    "id": "426",
+    "code": "TMA",
+    "name": "Đại Học Thương Mại",
+    "alias": "dai-hoc-thuong-mai",
+    "url": "/diem-chuan/dai-hoc-thuong-mai-TMA.html",
+    "name_kd": "Dai Hoc Thuong Mai"
+  },
+  {
+    "id": "549",
+    "code": "TQU",
+    "name": "Đại học Tân Trào",
+    "alias": "dai-hoc-tan-trao",
+    "url": "/diem-chuan/dai-hoc-tan-trao-TQU.html",
+    "name_kd": "Dai hoc Tan Trao"
+  },
+  {
+    "id": "386",
+    "code": "TSN",
+    "name": "Đại Học Nha Trang",
+    "alias": "dai-hoc-nha-trang",
+    "url": "/diem-chuan/dai-hoc-nha-trang-TSN.html",
+    "name_kd": "Dai Hoc Nha Trang"
+  },
+  {
+    "id": "431",
+    "code": "TTB",
+    "name": "Đại Học Tây Bắc",
+    "alias": "dai-hoc-tay-bac",
+    "url": "/diem-chuan/dai-hoc-tay-bac-TTB.html",
+    "name_kd": "Dai Hoc Tay Bac"
+  },
+  {
+    "id": "429",
+    "code": "TTD",
+    "name": "Đại Học Thể Dục Thể Thao Đà Nẵng",
+    "alias": "dai-hoc-the-duc-the-thao-da-nang",
+    "url": "/diem-chuan/dai-hoc-the-duc-the-thao-da-nang-TTD.html",
+    "name_kd": "Dai Hoc The Duc The Thao Da Nang"
+  },
+  {
+    "id": "430",
+    "code": "TTG",
+    "name": "Đại Học Tiền Giang",
+    "alias": "dai-hoc-tien-giang",
+    "url": "/diem-chuan/dai-hoc-tien-giang-TTG.html",
+    "name_kd": "Dai Hoc Tien Giang"
+  },
+  {
+    "id": "290",
+    "code": "TTH",
+    "name": "Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc",
+    "alias": "truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac",
+    "url": "/diem-chuan/truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac-TTH.html",
+    "name_kd": "Truong Si Quan Thong Tin - He Quan su - Dai Hoc Thong Tin Lien Lac"
+  },
+  {
+    "id": "432",
+    "code": "TTN",
+    "name": "Đại Học Tây Nguyên",
+    "alias": "dai-hoc-tay-nguyen",
+    "url": "/diem-chuan/dai-hoc-tay-nguyen-TTN.html",
+    "name_kd": "Dai Hoc Tay Nguyen"
+  },
+  {
+    "id": "405",
+    "code": "TTQ",
+    "name": "Đại Học Quốc Tế Sài Gòn",
+    "alias": "dai-hoc-quoc-te-sai-gon",
+    "url": "/diem-chuan/dai-hoc-quoc-te-sai-gon-TTQ.html",
+    "name_kd": "Dai Hoc Quoc Te Sai Gon"
+  },
+  {
+    "id": "450",
+    "code": "TYS",
+    "name": "Đại Học Y Khoa Phạm Ngọc Thạch",
+    "alias": "dai-hoc-y-khoa-pham-ngoc-thach",
+    "url": "/diem-chuan/dai-hoc-y-khoa-pham-ngoc-thach-TYS.html",
+    "name_kd": "Dai Hoc Y Khoa Pham Ngoc Thach"
+  },
+  {
+    "id": "354",
+    "code": "UEF",
+    "name": "Đại Học Kinh Tế -Tài Chính TPHCM",
+    "alias": "dai-hoc-kinh-te-tai-chinh-tphcm",
+    "url": "/diem-chuan/dai-hoc-kinh-te-tai-chinh-tphcm-UEF.html",
+    "name_kd": "Dai Hoc Kinh Te -Tai Chinh TPHCM"
+  },
+  {
+    "id": "584",
+    "code": "UKH",
+    "name": "Đại học Khánh Hòa",
+    "alias": "dai-hoc-khanh-hoa",
+    "url": "/diem-chuan/dai-hoc-khanh-hoa-UKH.html",
+    "name_kd": "Dai hoc Khanh Hoa"
+  },
+  {
+    "id": "436",
+    "code": "VGU",
+    "name": "Đại Học Việt Đức",
+    "alias": "dai-hoc-viet-duc",
+    "url": "/diem-chuan/dai-hoc-viet-duc-VGU.html",
+    "name_kd": "Dai Hoc Viet Duc"
+  },
+  {
+    "id": "481",
+    "code": "VHD",
+    "name": "Đại Học Công Nghiệp Việt Hung",
+    "alias": "dai-hoc-cong-nghiep-viet-hung",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-viet-hung-VHD.html",
+    "name_kd": "Dai Hoc Cong Nghiep Viet Hung"
+  },
+  {
+    "id": "441",
+    "code": "VHH",
+    "name": "Đại Học Văn Hóa Hà Nội",
+    "alias": "dai-hoc-van-hoa-ha-noi",
+    "url": "/diem-chuan/dai-hoc-van-hoa-ha-noi-VHH.html",
+    "name_kd": "Dai Hoc Van Hoa Ha Noi"
+  },
+  {
+    "id": "442",
+    "code": "VHS",
+    "name": "Đại Học Văn Hóa TPHCM",
+    "alias": "dai-hoc-van-hoa-tphcm",
+    "url": "/diem-chuan/dai-hoc-van-hoa-tphcm-VHS.html",
+    "name_kd": "Dai Hoc Van Hoa TPHCM"
+  },
+  {
+    "id": "132",
+    "code": "VLU",
+    "name": "Đại Học Sư Phạm Kỹ Thuật Vĩnh Long",
+    "alias": "dai-hoc-su-pham-ky-thuat-vinh-long",
+    "url": "/diem-chuan/dai-hoc-su-pham-ky-thuat-vinh-long-VLU.html",
+    "name_kd": "Dai Hoc Su Pham Ky Thuat Vinh Long"
+  },
+  {
+    "id": "488",
+    "code": "VPH",
+    "name": "Trường Sĩ Quan Kĩ Thuật Quân Sự -  Hệ Quân sự - Đại Học Trần Đại Nghĩa",
+    "alias": "truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia",
+    "url": "/diem-chuan/truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia-VPH.html",
+    "name_kd": "Truong Si Quan Ki Thuat Quan Su -  He Quan su - Dai Hoc Tran Dai Nghia"
+  },
+  {
+    "id": "461",
+    "code": "VUI",
+    "name": "Đại Học Công Nghiệp Việt Trì",
+    "alias": "dai-hoc-cong-nghiep-viet-tri",
+    "url": "/diem-chuan/dai-hoc-cong-nghiep-viet-tri-VUI.html",
+    "name_kd": "Dai Hoc Cong Nghiep Viet Tri"
+  },
+  {
+    "id": "443",
+    "code": "XDA",
+    "name": "Đại Học Xây Dựng Hà Nội",
+    "alias": "dai-hoc-xay-dung-ha-noi",
+    "url": "/diem-chuan/dai-hoc-xay-dung-ha-noi-XDA.html",
+    "name_kd": "Dai Hoc Xay Dung Ha Noi"
+  },
+  {
+    "id": "476",
+    "code": "XDT",
+    "name": "Đại Học Xây Dựng Miền Trung",
+    "alias": "dai-hoc-xay-dung-mien-trung",
+    "url": "/diem-chuan/dai-hoc-xay-dung-mien-trung-XDT.html",
+    "name_kd": "Dai Hoc Xay Dung Mien Trung"
+  },
+  {
+    "id": "446",
+    "code": "YCT",
+    "name": "Đại Học Y Dược Cần Thơ",
+    "alias": "dai-hoc-y-duoc-can-tho",
+    "url": "/diem-chuan/dai-hoc-y-duoc-can-tho-YCT.html",
+    "name_kd": "Dai Hoc Y Duoc Can Tho"
+  },
+  {
+    "id": "454",
+    "code": "YDD",
+    "name": "Đại Học Điều Dưỡng Nam Định",
+    "alias": "dai-hoc-dieu-duong-nam-dinh",
+    "url": "/diem-chuan/dai-hoc-dieu-duong-nam-dinh-YDD.html",
+    "name_kd": "Dai Hoc Dieu Duong Nam Dinh"
+  },
+  {
+    "id": "552",
+    "code": "YDN",
+    "name": "Đại học Kỹ thuật Y Dược Đà Nẵng",
+    "alias": "dai-hoc-ky-thuat-y-duoc-da-nang",
+    "url": "/diem-chuan/dai-hoc-ky-thuat-y-duoc-da-nang-YDN.html",
+    "name_kd": "Dai hoc Ky thuat Y Duoc Da Nang"
+  },
+  {
+    "id": "447",
+    "code": "YDS",
+    "name": "Đại Học Y Dược TPHCM",
+    "alias": "dai-hoc-y-duoc-tphcm",
+    "url": "/diem-chuan/dai-hoc-y-duoc-tphcm-YDS.html",
+    "name_kd": "Dai Hoc Y Duoc TPHCM"
+  },
+  {
+    "id": "448",
+    "code": "YHB",
+    "name": "Đại Học Y Hà Nội",
+    "alias": "dai-hoc-y-ha-noi",
+    "url": "/diem-chuan/dai-hoc-y-ha-noi-YHB.html",
+    "name_kd": "Dai Hoc Y Ha Noi"
+  },
+  {
+    "id": "522",
+    "code": "YKV",
+    "name": "Đại Học Y Khoa Vinh",
+    "alias": "dai-hoc-y-khoa-vinh",
+    "url": "/diem-chuan/dai-hoc-y-khoa-vinh-YKV.html",
+    "name_kd": "Dai Hoc Y Khoa Vinh"
+  },
+  {
+    "id": "449",
+    "code": "YPB",
+    "name": "Đại Học Y Dược Hải Phòng",
+    "alias": "dai-hoc-y-duoc-hai-phong",
+    "url": "/diem-chuan/dai-hoc-y-duoc-hai-phong-YPB.html",
+    "name_kd": "Dai Hoc Y Duoc Hai Phong"
+  },
+  {
+    "id": "254",
+    "code": "YQH",
+    "name": "Học Viện Quân Y - Hệ Quân sự",
+    "alias": "hoc-vien-quan-y-he-quan-su",
+    "url": "/diem-chuan/hoc-vien-quan-y-he-quan-su-YQH.html",
+    "name_kd": "Hoc Vien Quan Y - He Quan su"
+  },
+  {
+    "id": "451",
+    "code": "YTB",
+    "name": "Đại Học Y Dược Thái Bình",
+    "alias": "dai-hoc-y-duoc-thai-binh",
+    "url": "/diem-chuan/dai-hoc-y-duoc-thai-binh-YTB.html",
+    "name_kd": "Dai Hoc Y Duoc Thai Binh"
+  },
+  {
+    "id": "452",
+    "code": "YTC",
+    "name": "Đại Học Y Tế Công Cộng",
+    "alias": "dai-hoc-y-te-cong-cong",
+    "url": "/diem-chuan/dai-hoc-y-te-cong-cong-YTC.html",
+    "name_kd": "Dai Hoc Y Te Cong Cong"
+  },
+  {
+    "id": "440",
+    "code": "ZNH",
+    "name": "Đại Học Văn Hóa – Nghệ Thuật Quân Đội",
+    "alias": "dai-hoc-van-hoa-nghe-thuat-quan-doi",
+    "url": "/diem-chuan/dai-hoc-van-hoa-nghe-thuat-quan-doi-ZNH.html",
+    "name_kd": "Dai Hoc Van Hoa – Nghe Thuat Quan Doi"
+  },
+  {
+    "id": "124",
+    "code": "C05",
+    "name": "Cao Đẳng Sư Phạm Hà Giang",
+    "alias": "cao-dang-su-pham-ha-giang",
+    "url": "/diem-chuan/cao-dang-su-pham-ha-giang-C05.html",
+    "name_kd": "Cao Dang Su Pham Ha Giang"
+  },
+  {
+    "id": "120",
+    "code": "C06",
+    "name": "Cao Đẳng Sư Phạm Cao Bằng",
+    "alias": "cao-dang-su-pham-cao-bang",
+    "url": "/diem-chuan/cao-dang-su-pham-cao-bang-C06.html",
+    "name_kd": "Cao Dang Su Pham Cao Bang"
+  },
+  {
+    "id": "146",
+    "code": "C12",
+    "name": "Cao Đẳng Sư Phạm Thái Nguyên",
+    "alias": "cao-dang-su-pham-thai-nguyen",
+    "url": "/diem-chuan/cao-dang-su-pham-thai-nguyen-C12.html",
+    "name_kd": "Cao Dang Su Pham Thai Nguyen"
+  },
+  {
+    "id": "138",
+    "code": "C18",
+    "name": "Cao Đẳng Sư Phạm Ngô Gia Tự Bắc Giang",
+    "alias": "cao-dang-su-pham-ngo-gia-tu-bac-giang",
+    "url": "/diem-chuan/cao-dang-su-pham-ngo-gia-tu-bac-giang-C18.html",
+    "name_kd": "Cao Dang Su Pham Ngo Gia Tu Bac Giang"
+  },
+  {
+    "id": "129",
+    "code": "C21",
+    "name": "Cao Đẳng Hải Dương",
+    "alias": "cao-dang-hai-duong",
+    "url": "/diem-chuan/cao-dang-hai-duong-C21.html",
+    "name_kd": "Cao Dang Hai Duong"
+  },
+  {
+    "id": "128",
+    "code": "C22",
+    "name": "Cao Đẳng Sư Phạm Hưng Yên",
+    "alias": "cao-dang-su-pham-hung-yen",
+    "url": "/diem-chuan/cao-dang-su-pham-hung-yen-C22.html",
+    "name_kd": "Cao Dang Su Pham Hung Yen"
+  },
+  {
+    "id": "136",
+    "code": "C25",
+    "name": "Cao Đẳng Sư Phạm Nam Định",
+    "alias": "cao-dang-su-pham-nam-dinh",
+    "url": "/diem-chuan/cao-dang-su-pham-nam-dinh-C25.html",
+    "name_kd": "Cao Dang Su Pham Nam Dinh"
+  },
+  {
+    "id": "145",
+    "code": "C26",
+    "name": "Cao Đẳng Sư Phạm Thái Bình",
+    "alias": "cao-dang-su-pham-thai-binh",
+    "url": "/diem-chuan/cao-dang-su-pham-thai-binh-C26.html",
+    "name_kd": "Cao Dang Su Pham Thai Binh"
+  },
+  {
+    "id": "137",
+    "code": "C29",
+    "name": "Cao Đẳng Sư Phạm Nghệ An",
+    "alias": "cao-dang-su-pham-nghe-an",
+    "url": "/diem-chuan/cao-dang-su-pham-nghe-an-C29.html",
+    "name_kd": "Cao Dang Su Pham Nghe An"
+  },
+  {
+    "id": "147",
+    "code": "C33",
+    "name": "Cao Đẳng Sư Phạm Thừa Thiên Huế",
+    "alias": "cao-dang-su-pham-thua-thien-hue",
+    "url": "/diem-chuan/cao-dang-su-pham-thua-thien-hue-C33.html",
+    "name_kd": "Cao Dang Su Pham Thua Thien Hue"
+  },
+  {
+    "id": "122",
+    "code": "C38",
+    "name": "Cao Đẳng Sư Phạm Gia Lai",
+    "alias": "cao-dang-su-pham-gia-lai",
+    "url": "/diem-chuan/cao-dang-su-pham-gia-lai-C38.html",
+    "name_kd": "Cao Dang Su Pham Gia Lai"
+  },
+  {
+    "id": "159",
+    "code": "C40",
+    "name": "Cao Đẳng Sư Phạm Đăk Lăk",
+    "alias": "cao-dang-su-pham-dak-lak",
+    "url": "/diem-chuan/cao-dang-su-pham-dak-lak-C40.html",
+    "name_kd": "Cao Dang Su Pham Dak Lak"
+  },
+  {
+    "id": "158",
+    "code": "C42",
+    "name": "Cao Đẳng Sư Phạm Đà Lạt",
+    "alias": "cao-dang-su-pham-da-lat",
+    "url": "/diem-chuan/cao-dang-su-pham-da-lat-C42.html",
+    "name_kd": "Cao Dang Su Pham Da Lat"
+  },
+  {
+    "id": "140",
+    "code": "C45",
+    "name": "Cao Đẳng Sư Phạm Ninh Thuận",
+    "alias": "cao-dang-su-pham-ninh-thuan",
+    "url": "/diem-chuan/cao-dang-su-pham-ninh-thuan-C45.html",
+    "name_kd": "Cao Dang Su Pham Ninh Thuan"
+  },
+  {
+    "id": "42",
+    "code": "C47",
+    "name": "Cao Đẳng Cộng Đồng Bình Thuận",
+    "alias": "cao-dang-cong-dong-binh-thuan",
+    "url": "/diem-chuan/cao-dang-cong-dong-binh-thuan-C47.html",
+    "name_kd": "Cao Dang Cong Dong Binh Thuan"
+  },
+  {
+    "id": "114",
+    "code": "C52",
+    "name": "Cao Đẳng Sư Phạm Bà Rịa – Vũng Tàu",
+    "alias": "cao-dang-su-pham-ba-ria-vung-tau",
+    "url": "/diem-chuan/cao-dang-su-pham-ba-ria-vung-tau-C52.html",
+    "name_kd": "Cao Dang Su Pham Ba Ria – Vung Tau"
+  },
+  {
+    "id": "40",
+    "code": "C55",
+    "name": "Cao Đẳng Cần Thơ",
+    "alias": "cao-dang-can-tho",
+    "url": "/diem-chuan/cao-dang-can-tho-C55.html",
+    "name_kd": "Cao Dang Can Tho"
+  },
+  {
+    "id": "154",
+    "code": "C57",
+    "name": "Cao Đẳng Sư Phạm Vĩnh Long",
+    "alias": "cao-dang-su-pham-vinh-long",
+    "url": "/diem-chuan/cao-dang-su-pham-vinh-long-C57.html",
+    "name_kd": "Cao Dang Su Pham Vinh Long"
+  },
+  {
+    "id": "143",
+    "code": "C59",
+    "name": "Cao Đẳng Sư Phạm Sóc Trăng",
+    "alias": "cao-dang-su-pham-soc-trang",
+    "url": "/diem-chuan/cao-dang-su-pham-soc-trang-C59.html",
+    "name_kd": "Cao Dang Su Pham Soc Trang"
+  },
+  {
+    "id": "1",
+    "code": "CBK",
+    "name": "Cao Đẳng Bách Khoa Hưng Yên",
+    "alias": "cao-dang-bach-khoa-hung-yen",
+    "url": "/diem-chuan/cao-dang-bach-khoa-hung-yen-CBK.html",
+    "name_kd": "Cao Dang Bach Khoa Hung Yen"
+  },
+  {
+    "id": "53",
+    "code": "CDH",
+    "name": "Cao Đẳng Du Lịch Hà Nội",
+    "alias": "cao-dang-du-lich-ha-noi",
+    "url": "/diem-chuan/cao-dang-du-lich-ha-noi-CDH.html",
+    "name_kd": "Cao Dang Du Lich Ha Noi"
+  },
+  {
+    "id": "38",
+    "code": "CES",
+    "name": "Cao Đẳng Công Thương TPHCM",
+    "alias": "cao-dang-cong-thuong-tphcm",
+    "url": "/diem-chuan/cao-dang-cong-thuong-tphcm-CES.html",
+    "name_kd": "Cao Dang Cong Thuong TPHCM"
+  },
+  {
+    "id": "89",
+    "code": "CKC",
+    "name": "Cao Đẳng Kỹ Thuật Cao Thắng",
+    "alias": "cao-dang-ky-thuat-cao-thang",
+    "url": "/diem-chuan/cao-dang-ky-thuat-cao-thang-CKC.html",
+    "name_kd": "Cao Dang Ky Thuat Cao Thang"
+  },
+  {
+    "id": "84",
+    "code": "CKD",
+    "name": "Cao Đẳng Kinh Tế Đối Ngoại",
+    "alias": "cao-dang-kinh-te-doi-ngoai",
+    "url": "/diem-chuan/cao-dang-kinh-te-doi-ngoai-CKD.html",
+    "name_kd": "Cao Dang Kinh Te Doi Ngoai"
+  },
+  {
+    "id": "149",
+    "code": "CM3",
+    "name": "Cao Đẳng Sư Phạm Trung Ương TPHCM",
+    "alias": "cao-dang-su-pham-trung-uong-tphcm",
+    "url": "/diem-chuan/cao-dang-su-pham-trung-uong-tphcm-CM3.html",
+    "name_kd": "Cao Dang Su Pham Trung Uong TPHCM"
+  },
+  {
+    "id": "177",
+    "code": "CVV",
+    "name": "Cao Đẳng Văn Hóa Nghệ Thuật Nghệ An",
+    "alias": "cao-dang-van-hoa-nghe-thuat-nghe-an",
+    "url": "/diem-chuan/cao-dang-van-hoa-nghe-thuat-nghe-an-CVV.html",
+    "name_kd": "Cao Dang Van Hoa Nghe Thuat Nghe An"
+  },
+  {
+    "id": "30",
+    "code": "DDI",
+    "name": "Khoa Công Nghệ Thông Tin và truyền thông – Đại Học Đà Nẵng",
+    "alias": "khoa-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-da-nang",
+    "url": "/diem-chuan/khoa-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-da-nang-DDI.html",
+    "name_kd": "Khoa Cong Nghe Thong Tin va truyen thong – Dai Hoc Da Nang"
+  },
+  {
+    "id": "299",
+    "code": "BVU",
+    "name": "Đại Học Bà Rịa – Vũng Tàu",
+    "alias": "dai-hoc-ba-ria-vung-tau",
+    "url": "/diem-chuan/dai-hoc-ba-ria-vung-tau-BVU.html",
+    "name_kd": "Dai Hoc Ba Ria – Vung Tau"
+  },
+  {
+    "id": "482",
+    "code": "DTB",
+    "name": "Đại Học Thái Bình",
+    "alias": "dai-hoc-thai-binh",
+    "url": "/diem-chuan/dai-hoc-thai-binh-DTB.html",
+    "name_kd": "Dai Hoc Thai Binh"
+  },
+  {
+    "id": "523",
+    "code": "DVD",
+    "name": "Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",
+    "alias": "dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa",
+    "url": "/diem-chuan/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa-DVD.html",
+    "name_kd": "Dai Hoc Van Hoa, The Thao Va Du Lich Thanh Hoa"
+  },
+  {
+    "id": "362",
+    "code": "KTD",
+    "name": "Đại Học Kiến Trúc Đà Nẵng",
+    "alias": "dai-hoc-kien-truc-da-nang",
+    "url": "/diem-chuan/dai-hoc-kien-truc-da-nang-KTD.html",
+    "name_kd": "Dai Hoc Kien Truc Da Nang"
+  },
+  {
+    "id": "428",
+    "code": "TDS",
+    "name": "Đại Học Thể Dục Thể Thao TPHCM",
+    "alias": "dai-hoc-the-duc-the-thao-tphcm",
+    "url": "/diem-chuan/dai-hoc-the-duc-the-thao-tphcm-TDS.html",
+    "name_kd": "Dai Hoc The Duc The Thao TPHCM"
+  },
+  {
+    "id": "437",
+    "code": "VTT",
+    "name": "Đại Học Võ Trường Toản",
+    "alias": "dai-hoc-vo-truong-toan",
+    "url": "/diem-chuan/dai-hoc-vo-truong-toan-VTT.html",
+    "name_kd": "Dai Hoc Vo Truong Toan"
+  }
+]
